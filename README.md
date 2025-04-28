@@ -69,7 +69,4 @@ DesafioAlura_DS_CSGC/
 ├── notebooks/
 │    └── desafio_alura_store.ipynb
 │
-├── images/
-│    └── (Gráficos exportados opcionales)
-│
 └── README.md
