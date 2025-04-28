@@ -1,4 +1,4 @@
-# DesafioAlura_Store_DataSC
+# DesafioAlura_Store_DataSC - ELABORADO CON JUPYTER (.ipynb)
 Este proyecto fue desarrollado como parte del desafío de ciencia de datos propuesto en el curso de **Alura LATAM**. Por Carlos Sebastian Gómez Carrilo
 # Desafío Alura Store - Análisis de Datos
 
